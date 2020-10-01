@@ -1,2 +1,2 @@
-# TestNouvellesDonnes
-test technique pour Nouvelles Donnes
+# TestNouvellesDonnesAlgo
+test algo pour Nouvelles Donnes
